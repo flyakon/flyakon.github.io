@@ -115,7 +115,7 @@ We propose a self-supervised multitask representation learning method to capture
 
 Zhengxia Zou, <b>Wenyuan Li</b>, Tianyang Shi,  Zhenwei Shi and Jieping Ye.<br>
 
-[<a href="hhttp://openaccess.thecvf.com/content_ICCV_2019/papers/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.pdf">PDF</a>] [<a href="https://github.com/flyakon/CloudMattingGAN">Github</a>]<br>
+[<a href="http://openaccess.thecvf.com/content_ICCV_2019/papers/Zou_Generative_Adversarial_Training_for_Weakly_Supervised_Cloud_Matting_ICCV_2019_paper.pdf">PDF</a>] [<a href="https://github.com/flyakon/CloudMattingGAN">Github</a>]<br>
 
 <div style="text-align: justify">
 
