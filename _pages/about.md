@@ -11,11 +11,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 
+<span class='anchor' id='research'></span>
 {% include_relative includes/research.md %}
 
+<span class='anchor' id='Publications'></span>
 {% include_relative includes/pub.md %}
 
 {% include_relative includes/edu.md %}
+
 <span class='anchor' id='end-page'></span>
 
 

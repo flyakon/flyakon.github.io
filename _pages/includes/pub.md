@@ -119,7 +119,7 @@ Zhengxia Zou, <b>Wenyuan Li</b>, Tianyang Shi,  Zhenwei Shi and Jieping Ye.<br>
 
 <div style="text-align: justify">
 
-we re-examine the cloud detection under a totally different point of view, i.e. to formulate it as a mixed energy separation process between foreground and background images, which can be equivalently implemented under an image matting paradigm with a clear physical significance. We further propose a generative adversarial framework where the training of our model neither requires any pixel-wise ground truth reference nor any additional user interactions.
+We re-examine the cloud detection under a totally different point of view, i.e. to formulate it as a mixed energy separation process between foreground and background images, which can be equivalently implemented under an image matting paradigm with a clear physical significance. We further propose a generative adversarial framework where the training of our model neither requires any pixel-wise ground truth reference nor any additional user interactions.
 
 </div>
 
