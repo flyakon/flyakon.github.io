@@ -5,32 +5,32 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-url: https://kychen.me
+url: https://flyakon.github.io/
 # Site Settings
-title                    : "Keyan Chen (陈科研)"
-description              : "Ph.D. Student, Beihang University"
-repository               : "KyanChen/KyanChen.github.io"
+title                    : "Wenyuan Li (李汶原)"
+description              : "Postdoc Fellow, the University of Hong Kong"
+repository               : "flyakon/flyakon.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+#google_analytics_id      : G-SWFCX99KQZ
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+#google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
+#bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
+#baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Keyan Chen (陈科研)"
-  avatar           : "image/KeyanChen.jpg"
-  bio              : "Beihang University"
-  location         : "Beijing"
+  name             : "Wenyuan Li (李汶原)"
+  avatar           : "image/wenyuan.jpg"
+  bio              : "University of Hong Kong"
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=5RF4ia8AAAAJ"
-  email            : "kychen@buaa.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Keyan-Chen-6"
+  googlescholar    : "https://scholar.google.com/citations?user=cHwscjMAAAAJ"
+  email            : "liwayne@hku.hk"
+  researchgate     : "https://www.researchgate.net/profile/Li-Wenyuan"
   uri              :
   bitbucket        :
   codepen          :
@@ -38,15 +38,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "KyanChen"
+  github           : "flyakon"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : # "KeyanChen"
-  dblp             : "https://dblp.org/pid/256/2434.html"
-  orcid            : "https://orcid.org/0000-0003-0483-1306"
+  dblp             : #"https://dblp.org/pid/256/2434.html"
+  orcid            : "https://orcid.org/0000-0002-3889-2775"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
