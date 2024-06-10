@@ -1,6 +1,7 @@
 # 👋 About Me
 
-I am a second-year Ph.D. student in the [LEVIR lab.](http://levir.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/), advised by Prof. [Zhenwei Shi](http://levir.buaa.edu.cn/) (史振威，国家杰青) and Prof. [Zhengxia Zou](https://zhengxiazou.github.io/) (邹征夏，国家优青海外). Before that, I received my B.S. and M.S. degree in [Image Processing Center](http://www.sa.buaa.edu.cn/) at [Beihang University](https://www.buaa.edu.cn/).
+I am currently a Postdoc Research Fellow in the Department of Geography at the University of Hong Kong,
+working with Prof. [Shunlin Liang](https://www.geog.hku.hk/sl-liang). 
+I received my Ph.D. degree in from the Image Processing Center of Beihang University, supervised by Prof. [Zhenwei Shi](https://levir.buaa.edu.cn/).
 
-My research interests lie in the deep learning, computer vision, remote sensing image processing, and multimodal.
-
+My primary research interests are in applying deep learning methods, remote sensing data, and remote sensing prior knowledge to achieve applications including crop type recognition in situations with inadequate annotations.
