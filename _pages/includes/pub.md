@@ -30,7 +30,7 @@ physics into deep learning methods for accurate and continuous weather modeling
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/2022_GeCo.png"><img src='image/GeCo.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/2022_GeCo.png"><img src='image/2022_GeCo.png' alt="sym" width="100%"></a></div></div>
 
 <div class='paper-box-text' markdown="1">
 
@@ -55,7 +55,7 @@ We propose a Geographical supervision Correction method (GeCo) for remote sensin
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/2021_GeoKR.png"><img src='image/GeoKR.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/2021_GeoKR.png"><img src='image/2021_GeoKR.png' alt="sym" width="100%"></a></div></div>
 
 <div class='paper-box-text' markdown="1">
 
