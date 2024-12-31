@@ -9,7 +9,7 @@
 
 <b>Asiawheat: The First Asian 250-M Annual Fractional Wheat Cover Time Series  (2001-2023) Using Convolutional Neural Networks and Transformer Models</b><br>
 
-<i>arXiv, 2024</i><br>
+<i>Available at SSRN</i><br>
 
 <b>Wenyuan Li</b>, Shunlin Liang, Yongzhe Chen, Han Ma, Jianglei Xu, Zhongxin Chen, Husheng Fang, and Fengjiao Zhang<br>
 
