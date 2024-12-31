@@ -1,6 +1,34 @@
 
 # 📝 Seletected Publications
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/AsiaWheat.png"><img src='image/AsiaWheat.png' alt="AsiaWheat" width="100%"></a></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+
+<b>Asiawheat: The First Asian 250-M Annual Fractional Wheat Cover Time Series  (2001-2023) Using Convolutional Neural Networks and Transformer Models</b><br>
+
+<i>arXiv, 2024</i><br>
+
+<b>Wenyuan Li</b>, Shunlin Liang, Yongzhe Chen, Han Ma, Jianglei Xu, Zhongxin Chen, Husheng Fang, and Fengjiao Zhang<br>
+
+
+[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5029097">Paper</a>]<br>
+
+<div style="text-align: justify">
+
+We propose a novel deep learning mapping method that combines Convolutional Neural Networks (CNN) and Transformer models, 
+termed DeepMapping, to produce the first annual Asian fractional wheat cover product, AsiaWheat, 
+at a 250 m spatial resolution spanning from 2001 to 2023, which includes both winter and spring wheat.
+
+</div>
+
+</div>
+
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/DeepPhysiNet.png"><img src='image/DeepPhysiNet.png' alt="DeepPhysiNet" width="100%"></a></div></div>
 
 <div class='paper-box-text' markdown="1">
