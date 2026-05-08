@@ -14,7 +14,7 @@
 <b>Wenyuan Li</b>, Shunlin Liang, Keyan Chen,  and et al<br>
 
 
-[<a href="https://ieeexplore.ieee.org/abstract/document/11370151/">Paper</a>]<br>
+[<a href="https://www.sciencedirect.com/science/article/pii/S0034425726000040">Paper</a>]<br>
 
 <div style="text-align: justify">
 
@@ -38,7 +38,7 @@ AgriFM is a foundational model for agricultural mapping that introduces a synchr
 <b>Wenyuan Li</b>, Shunlin Liang, Yongzhe Chen, Han Ma, Jianglei Xu, Zhongxin Chen, Husheng Fang, and Fengjiao Zhang<br>
 
 
-[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5029097">Paper</a>]<br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/11370151/">Paper</a>]<br>
 
 <div style="text-align: justify">
 
