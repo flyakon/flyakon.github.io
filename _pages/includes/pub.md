@@ -14,7 +14,7 @@
 <b>Wenyuan Li</b>, Shunlin Liang, Keyan Chen,  and et al<br>
 
 
-[<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5029097">Paper</a>]<br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/11370151/">Paper</a>]<br>
 
 <div style="text-align: justify">
 
@@ -31,9 +31,9 @@ AgriFM is a foundational model for agricultural mapping that introduces a synchr
 <div class='paper-box-text' markdown="1">
 
 
-<b>Asiawheat: The First Asian 250-M Annual Fractional Wheat Cover Time Series  (2001-2023) Using Convolutional Neural Networks and Transformer Models</b><br>
+<b>A CNN-Transformer Hybrid Framework for Mapping Annual Wheat Fractional Cover from 2001-2023 using MODIS Satellite Data over Asia</b><br>
 
-<i>arXiv, 2024</i><br>
+<i>IEEE Journal of Selected Topics in Signal Processing, 2026</i><br>
 
 <b>Wenyuan Li</b>, Shunlin Liang, Yongzhe Chen, Han Ma, Jianglei Xu, Zhongxin Chen, Husheng Fang, and Fengjiao Zhang<br>
 
